@@ -91,6 +91,7 @@ export const Results = styled.div`
     
     .authors{
       height: 1.5rem;
+      word-break: break-word;
       display: flex;
       overflow: hidden;
       text-overflow: ellipsis;
